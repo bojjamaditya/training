@@ -11,6 +11,8 @@ public class LinearSearch {
 		int pos = (int) algorithms.Search.dataSearch(numbers, 15);
 		System.out.println(pos);
 		System.out.println("adding new code");
+		System.out.println("added git  new code");
+		
 
 	}
 
