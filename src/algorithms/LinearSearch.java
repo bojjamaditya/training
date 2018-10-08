@@ -12,6 +12,7 @@ public class LinearSearch {
 		System.out.println(pos);
 		System.out.println("adding new code");
 		System.out.println("added git  new code");
+		System.out.println("hello");
 		
 
 	}
